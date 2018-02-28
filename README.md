@@ -1,2 +1,2 @@
 # CS100
-Software Construction (Bash, C++)
+Software Construction
